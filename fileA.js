@@ -20,3 +20,4 @@ console.log("main 3")
 
 
 console.log("main 4")
+console.log("new D 1")
