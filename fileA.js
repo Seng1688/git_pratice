@@ -11,3 +11,4 @@ console.log("update from branch B");
 console.log("update from branch B child");
 console.log("update from branch B");
 
+console.log("main 1")
