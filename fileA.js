@@ -22,3 +22,7 @@ console.log("main 3")
 console.log("main 4")
 console.log("b1")
 console.log("main log")
+
+
+
+console.log("b1 log")
