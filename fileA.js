@@ -26,3 +26,4 @@ console.log("new D 3")
 
 console.log("message after remote branch is deleted")
 console.log("message after remote branch is deleted2")
+console.log("message after remote branch is deleted3")
