@@ -8,3 +8,4 @@ console.log("Update in main 1");
 console.log("conflict from branch A")
 console.log("update from branch B");
 console.log("update from branch B child");
+console.log("update from branch B");
