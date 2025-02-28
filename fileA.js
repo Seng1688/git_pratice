@@ -20,3 +20,10 @@ console.log("main 3")
 
 
 console.log("main 4")
+console.log("new D 1")
+console.log("new D 2")
+console.log("new D 3")
+
+console.log("message after remote branch is deleted")
+console.log("message after remote branch is deleted2")
+console.log("message after remote branch is deleted3")
