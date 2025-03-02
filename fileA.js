@@ -5,3 +5,4 @@ main3
 temp1
 tt1
 tt2 spiderman
+tt2 mac
